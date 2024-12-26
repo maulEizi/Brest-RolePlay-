@@ -522,6 +522,9 @@ Expulse un membre du serveur.
 **\`${pf}ban <membre> [raison]\`**
 Ban un membre du serveur.
 
+**\`${pf}banlist\`**
+Afficher la liste des bannis
+
 **\`${pf}mute <membre> [durée]\`**
 Rendre muet un membre. (maximum 27j)
 
